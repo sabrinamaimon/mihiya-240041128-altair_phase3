@@ -2,9 +2,7 @@
 
 ## The Turtle Has Field Duty: A Practical Introduction to ROS 2
 
-**Candidate**: Mihiya  
-**Department**: Computer Science and Engineering (CSE)  
-**Student ID**: 240041128  
+
 **Target Environment**: Ubuntu 22.04 LTS (ROS 2 Humble) / Ubuntu 24.04 LTS (ROS 2 Jazzy)  
 
 ---
