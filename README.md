@@ -154,7 +154,7 @@ ros2 service call /resume_mission std_srvs/srv/Trigger "{}"
 ---
 
 ## 5. Task 4: Explain It Like a Reel
-* Complete 60–90s spoken script, everyday FM radio analogy, and code walkthrough: [`docs/REEL_SCRIPT_TASK4.md`](docs/REEL_SCRIPT_TASK4.md).
+* Complete spoken script, everyday FM radio analogy, and code walkthrough: [`docs/REEL_SCRIPT_TASK4.md`](docs/REEL_SCRIPT_TASK4.md).
 
 ---
 
