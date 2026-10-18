@@ -163,11 +163,3 @@ ros2 service call /resume_mission std_srvs/srv/Trigger "{}"
 ## 6. Video Walkthrough & Recording Script
 * Detailed recording checklist, screen layout, and timestamps: [`docs/VIDEO_DEMO_WALKTHROUGH.md`](docs/VIDEO_DEMO_WALKTHROUGH.md).
 
----
-
-## 7. Submission Checklist
-- [x] Package buildable via `colcon build --symlink-install --packages-select altair_phase3`
-- [x] Zero warnings / clean linting
-- [x] All 5 tasks fully implemented and verified
-- [x] Video scripts and technical analyses documented
-- [x] PDF submission document created matching recruitment guidelines
