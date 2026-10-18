@@ -1,0 +1,12 @@
+services:
+  ros2_desktop:
+    image: tiryoh/ros2-desktop-vnc:humble
+    container_name: altair_ros2_desktop
+    ports:
+      - "6080:80"
+    shm_size: "512m"
+    volumes:
+      - ./src/altair_phase3:/root/altair_phase3_ws/src/altair_phase3
+    environment:
+      - RESOLUTION=1280x720
+    restart: unless-stopped
