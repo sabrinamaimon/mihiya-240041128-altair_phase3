@@ -1,0 +1,22 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+
+# Python cache & virtual environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+
+# macOS files
+.DS_Store
+._*
+
+# Temporary screenshots & screen recordings (stored on Google Drive)
+*.png
+videos/
+*.mov
